@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("ÅÓ³¼Ñô666");
+System.out.println("åºžè‡£é˜³666");
 	}
 
 }
